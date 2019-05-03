@@ -21,7 +21,7 @@ A set of one hundred papers constitutes the attempt of researchers to tackle dif
 
 <div>
   
-  <img width="50%" align="left" src="map.png">  
+  <img src="map.png">  
 
 <p> 
 As the figure depicts, the biggest gaps are in evaluations and opinions. Evaluation work need to evaluate the research in practice whereas opinions are usually formed after investigation of multiple different approaches. Both research types have a low number of works. Also other research categories—excluding validation research—have a low number
