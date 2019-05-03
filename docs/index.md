@@ -17,13 +17,12 @@ proposed, but, fewer metrics, models and processes.
 
 ## Publications per year
 
-<div>
+<div style="clear: both">
 <img width="50%" align="left" src="pubperyear.png">  
 <p> 
 A set of one hundred papers constitutes the attempt of researchers to tackle different challenges in designing elastic and efficient big data stream processing applications. As seen in the figure the first relevant publication came out in 2000. Then in 2012, the number of publications rose to a peak with 22 papers in 2015. After the peak, in the following two years, the number of publications fell. It is important to note that the data for the year 2018 is not complete, as we conduct the data search and export in August of 2018.
 </p>
 </div>
-<hr />
 
 ## Publications mapped to research and contribution type
 
@@ -44,9 +43,9 @@ As the figure depicts, the biggest gaps are in evaluations and opinions. Evaluat
   <tr><td>VAL</td><td>APPR</td><td>(Cammert et al., 2008; Kombi et al., 2017; Isert and Schwan, 2000; Cervino et al., 2012b; Vasconcelos et al., 2016)</td><td>5/18</td></tr>
     <tr><td>VAL</td><td>TL</td><td>(Wu et al., 2017; Heinze et al., 2015; Zhang et al., 2013; Cardellini et al., 2018; Bellavista et al., 2013)</td><td>5/16</td></tr>
   <tr><td>VAL</td><td>MOD</td><td>(Mencagli, 2016; Heinze et al., 2014b; Nguyen et al., 2015; Lin et al., 2015; Qanbari et al., 2015)</td><td>5</td></tr>
-<hr />
 
 </table>
+<hr />
 <table>
     <tr><td>SOL</td><td>FRMW</td><td>(Vakali et al., 2016; Zhang et al., 2015; Bhandari, 2012; Chen et al., 2014; Zacheilas et al., 2016)</td><td>5/8</td></tr>
     <tr><td>SOL</td><td>APPR</td><td>(Das et al., 2014; Vu et al., 2010; Heinze, 2011; Humayoo et al., 2014)</td><td>4</td></tr>
